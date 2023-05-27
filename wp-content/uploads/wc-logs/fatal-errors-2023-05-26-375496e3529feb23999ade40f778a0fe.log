@@ -1,0 +1,64 @@
+2023-05-26T12:53:07+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "p" in C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php:2511
+Stack trace:
+#0 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php(2511): sprintf('Nota: Voc\xC3\xAA est...', '2%')
+#1 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php(300): PMProGateway_stripe->show_connect_payment_option_fields(true, Array, '')
+#2 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): PMProGateway_stripe::pmpro_payment_option_fields(Array, '')
+#3 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\adminpages\paymentsettings.php(194): do_action('pmpro_payment_o...', Array, '')
+#6 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\includes\adminpages.php(290): require_once('C:\\Users\\Asus P...')
+#7 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): pmpro_paymentsettings('')
+#8 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#9 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-admin\admin.php(259): do_action('admin_page_pmpr...')
+#11 {main}
+  thrown, em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php, na linha 2511
+
+2023-05-26T12:53:09+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "p" in C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php:2511
+Stack trace:
+#0 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php(2511): sprintf('Nota: Voc\xC3\xAA est...', '2%')
+#1 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php(300): PMProGateway_stripe->show_connect_payment_option_fields(true, Array, '')
+#2 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): PMProGateway_stripe::pmpro_payment_option_fields(Array, '')
+#3 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\adminpages\paymentsettings.php(194): do_action('pmpro_payment_o...', Array, '')
+#6 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\includes\adminpages.php(290): require_once('C:\\Users\\Asus P...')
+#7 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): pmpro_paymentsettings('')
+#8 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#9 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-admin\admin.php(259): do_action('admin_page_pmpr...')
+#11 {main}
+  thrown, em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php, na linha 2511
+
+2023-05-26T13:16:39+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "p" in C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php:2511
+Stack trace:
+#0 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php(2511): sprintf('Nota: Voc\xC3\xAA est...', '2%')
+#1 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php(300): PMProGateway_stripe->show_connect_payment_option_fields(true, Array, '')
+#2 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): PMProGateway_stripe::pmpro_payment_option_fields(Array, '')
+#3 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\adminpages\paymentsettings.php(194): do_action('pmpro_payment_o...', Array, '')
+#6 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\includes\adminpages.php(290): require_once('C:\\Users\\Asus P...')
+#7 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): pmpro_paymentsettings('')
+#8 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#9 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-admin\admin.php(259): do_action('admin_page_pmpr...')
+#11 {main}
+  thrown, em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php, na linha 2511
+
+2023-05-26T13:16:40+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "p" in C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php:2511
+Stack trace:
+#0 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php(2511): sprintf('Nota: Voc\xC3\xAA est...', '2%')
+#1 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php(300): PMProGateway_stripe->show_connect_payment_option_fields(true, Array, '')
+#2 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): PMProGateway_stripe::pmpro_payment_option_fields(Array, '')
+#3 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\adminpages\paymentsettings.php(194): do_action('pmpro_payment_o...', Array, '')
+#6 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\includes\adminpages.php(290): require_once('C:\\Users\\Asus P...')
+#7 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): pmpro_paymentsettings('')
+#8 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#9 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-admin\admin.php(259): do_action('admin_page_pmpr...')
+#11 {main}
+  thrown, em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\paid-memberships-pro\classes\gateways\class.pmprogateway_stripe.php, na linha 2511
+

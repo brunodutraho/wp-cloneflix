@@ -1,0 +1,58 @@
+2023-05-25T02:30:32+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:30:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:30:35+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:30:46+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:30:48+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:30:56+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:08+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:09+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:10+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:14+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:49+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:50+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:52+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:53+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T02:42:54+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 24576 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-image-editor-gd.php, na linha 111
+
+2023-05-25T13:03:46+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:03:48+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:03:50+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:03:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:03:53+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:03:55+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:04:27+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:04:28+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:04:30+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:04:31+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:04:33+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+
+2023-05-25T13:04:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 8192 bytes), em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\media.php, na linha 3783
+

@@ -1,0 +1,12 @@
+2023-05-24T12:20:59+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on bool in C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php:295
+Stack trace:
+#0 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php(168): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(175): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(308): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#5 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#7 {main}
+  thrown, em C:\Users\Asus PC\Local Sites\clone-netflix\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php, na linha 295
+
